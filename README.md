@@ -19,6 +19,3 @@ It's part of a Cyber Security Internship assignment.
 - `interview_questions.md`: Prepared answers for interview questions
 - `wireshark_summary.md`: Insights from Wireshark (optional)
 - `screenshots/`: Visuals of terminal or packet capture (optional)
-
-## ✅ Submission
-[Submit your GitHub link here](https://forms.gle/8Gm83s53KbyXs3Ne9)
