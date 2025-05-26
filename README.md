@@ -23,12 +23,13 @@ It's part of a Cyber Security Internship assignment.
 ## 🖥️ Terminal_output = 
 """ user@kali:~$ nmap -sS 192.168.1.0/24
 
-Starting Nmap 7.93 ( https://nmap.org ) at 2025-05-26 14:22 UTC
+Starting Nmap 7.93 ( https://nmap.org ) at 2025-05-26
 Nmap scan report for 192.168.1.1
 Host is up (0.0020s latency).
 Not shown: 996 closed ports
 PORT     STATE SERVICE
 22/tcp   open  ssh
+53/tcp   open  domain
 80/tcp   open  http
 443/tcp  open  https
 
