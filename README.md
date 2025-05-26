@@ -16,6 +16,5 @@ It's part of a Cyber Security Internship assignment.
 ## 📂 Contents
 - `nmap_scan_results.txt`: Output from the TCP SYN scan
 - `analysis.md`: Breakdown of open ports and associated risks
-- `interview_questions.md`: Prepared answers for interview questions
 - `wireshark_summary.md`: Insights from Wireshark (optional)
 - `screenshots/`: Visuals of terminal or packet capture (optional)
